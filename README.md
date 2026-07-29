@@ -1,14 +1,14 @@
 # 📊 Retail Sales Performance Dashboard (2009–2012)
 
 ## Project Overview
-This project is an interactive Power BI dashboard designed to analyze retail sales performance from 2009 to 2012. It provides business insights into sales, profit, customer behavior, product performance, and regional trends through interactive visualizations.
+This project presents an interactive Power BI dashboard for analyzing retail sales performance from 2009 to 2012. It provides business insights into sales, profit, customer behavior, product performance, and regional trends through interactive visualizations.
 
-## Tools & Technologies
-- Power BI
+## Technologies Used
+- Microsoft Power BI
 - Power Query
 - DAX
-- Data Modeling
 - Microsoft Excel
+- Data Modeling
 
 ## Features
 - Interactive dashboards with dynamic slicers and filters
