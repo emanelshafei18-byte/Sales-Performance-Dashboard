@@ -4,11 +4,12 @@
 This project presents an interactive Power BI dashboard for analyzing retail sales performance from 2009 to 2012. It provides business insights into sales, profit, customer behavior, product performance, and regional trends through interactive visualizations.
 
 ## Technologies Used
+## Technologies Used
 - Microsoft Power BI
-- Power Query
 - DAX
-- Microsoft Excel
+- Power Query
 - Data Modeling
+- Microsoft Excel
 
 ## Features
 - Interactive dashboards with dynamic slicers and filters
