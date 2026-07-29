@@ -70,6 +70,10 @@ Sales-Performance-Dashboard
 │   └── 5-Timeline-Dashboard.png
 ```
 
+## Dataset
+
+The dashboard is built using retail sales data covering the period from 2009 to 2012. The source Excel files are available in the `Dataset` folder.
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
