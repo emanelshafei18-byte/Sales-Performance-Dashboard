@@ -11,12 +11,14 @@ This project is an interactive Power BI dashboard designed to analyze retail sal
 - Microsoft Excel
 
 ## Features
-- Interactive slicers and filters
-- Sales and profit analysis
-- Customer performance analysis
-- Product performance analysis
-- Regional performance analysis
-- Time-based trend analysis
+- Interactive dashboards with dynamic slicers and filters
+- KPI tracking for sales and profit performance
+- Customer behavior and purchasing analysis
+- Product performance evaluation
+- Regional sales comparison
+- Time-series sales trend analysis
+- Data-driven business insights
+- Interactive visualizations for decision-making
 
 ## Dashboard Pages
 - 🏠 Main Dashboard
@@ -67,6 +69,16 @@ Sales-Performance-Dashboard
 │   ├── 4-Customer-Dashboard.png
 │   └── 5-Timeline-Dashboard.png
 ```
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Power Query
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
 
 ## Author
 
