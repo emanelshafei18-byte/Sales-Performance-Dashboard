@@ -82,5 +82,6 @@ Sales-Performance-Dashboard
 
 ## Author
 
-**Eman Elshafei**  
-Data Analyst | Business Intelligence
+**Eman Elshafei**
+
+Aspiring Data Analyst | Business Intelligence
