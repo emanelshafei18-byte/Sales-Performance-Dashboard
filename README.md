@@ -1,4 +1,4 @@
-# 📊 analyze retail sales performance from 2009 to 2012
+# 📊 Retail Sales Performance Dashboard (2009–2012)
 
 ## Project Overview
 This project is an interactive Power BI dashboard designed to analyze retail sales performance from 2009 to 2012. It provides business insights into sales, profit, customer behavior, product performance, and regional trends through interactive visualizations.
